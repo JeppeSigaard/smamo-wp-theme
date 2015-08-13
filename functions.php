@@ -1,5 +1,5 @@
 <?php 
-require 'functions/disable-images.php';
+require 'functions/disable-pages.php';
 require 'functions/images.php';
 require 'functions/menus.php';
 require 'functions/meta-box.php';
